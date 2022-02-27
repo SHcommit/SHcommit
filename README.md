@@ -7,9 +7,9 @@
 
 iOS 앱 개발하기 위해 공부중입니다 .. 😆
 
-🌱  I'm studying [Swift, UIKit, Figma]
+🌱  I'm studying [Swift, UIKit, Figma, Algorithm]
 
-📚 To do [RxSwift, MVVM, SwiftUI, SQL, Server, Algorithm ...]
+📚 To do [RxSwift, MVVM, SwiftUI, SQL, Server ...]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHcommit&show_icons=true&theme=react)
 
