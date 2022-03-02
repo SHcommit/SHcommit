@@ -3,13 +3,13 @@
 
 <a href="https://dev-with-precious-dreams.tistory.com/"  target="_blank"><img src="https://img.shields.io/badge/BLOG-lightgray?style=flat-square&logo=velog&logoColor=white"/></a> <img src="https://img.shields.io/badge/happysh_s2@naver.com-yellow?style=flat-square&logo=Gmail&logoColor=email"/></a>
 
-### Hi there 👋
+:white_medium_square: ### Hi there 👋
 
-iOS 앱 개발하기 위해 공부중입니다 .. 😆
+:black_medium_square: iOS 앱 개발하기 위해 공부중입니다 .. 😆
 
-🌱  I'm studying [Swift, UIKit, Figma, Algorithm]
+:white_medium_square: 🌱  I'm studying [Swift, UIKit, Figma, Algorithm]
 
-📚 To do [RxSwift, MVVM, SwiftUI, SQL, Server ...]
+:black_medium_square: 📚 To do [RxSwift, MVVM, SwiftUI, SQL, Server ...]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHcommit&show_icons=true&theme=react)
 
