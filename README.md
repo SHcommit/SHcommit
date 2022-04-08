@@ -7,7 +7,7 @@
 
 :black_medium_square: iOS 앱 개발하기 위해 공부중입니다 .. 😆
 
-:white_medium_square: 🌱  I'm studying [Swift, UIKit, Figma, Algorithm]
+:white_medium_square: 🌱  I'm studying [Swift, UIKit, Android, Algorithm]
 
 :black_medium_square: 📚 To do [RxSwift, MVVM, SwiftUI, SQL, Server ...]
 
