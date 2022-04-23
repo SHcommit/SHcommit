@@ -10,7 +10,7 @@
 
    :white_medium_square: 🌱  I'm studying [Swift, UIKit, Android, Algorithm]
 
-   :black_medium_square: 📚 To do [RxSwift, MVVM, SwiftUI, SQL, Server ...]
+   :black_medium_square: 📚 To do [RxSwift, MVVM, SwiftUI, SQL, Server, OS ...]
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHcommit&show_icons=true&theme=react)
