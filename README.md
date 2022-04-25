@@ -3,7 +3,7 @@
 
 <a href="https://dev-with-precious-dreams.tistory.com/"  target="_blank"><img src="https://img.shields.io/badge/BLOG-lightgray?style=flat-square&logo=velog&logoColor=white"/></a> <img src="https://img.shields.io/badge/happysh_s2@naver.com-yellow?style=flat-square&logo=Gmail&logoColor=email"/></a>
 
-### Hi there 👋
+### Hi there 👋 👋
 
 
    :black_medium_square: iOS 앱 개발하기 위해 공부중입니다 .. 😆
