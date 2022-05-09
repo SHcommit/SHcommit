@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&height=200&animation=twinkling&section=header&text=Yang%20seunghyun&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&height=200&animation=twinkling&section=header&text=Yang%20Seunghyun&fontSize=70)
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=gradient)
 
 <a href="https://dev-with-precious-dreams.tistory.com/"  target="_blank"><img src="https://img.shields.io/badge/BLOG-lightgray?style=flat-square&logo=velog&logoColor=white"/></a> <img src="https://img.shields.io/badge/happysh_s2@naver.com-yellow?style=flat-square&logo=Gmail&logoColor=email"/></a>
