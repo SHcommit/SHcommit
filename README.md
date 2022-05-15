@@ -1,11 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&height=200&animation=twinkling&section=header&text=Yang%20seunghyun&fontSize=70)
-
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&animation=twinkling&section=header&text=Yang%20seunghyun&fontSize=60&fontColor=FF9B00)
 <div align=center><h3>About Info_</div>
 
 <a href="https://dev-with-precious-dreams.tistory.com/"  target="_blank"><img src="https://img.shields.io/badge/BLOG-lightgray?style=flat-square&logo=velog&logoColor=white"/></a> <img src="https://img.shields.io/badge/happysh_s2@naver.com-yellow?style=flat-square&logo=Gmail&logoColor=email"/></a>
 
 * I'm studying swift for developing IOS app.
-* and Computer Science, Algorithm, Firebase
+* and Computer Science, Algorithm
 
 <div align=center><h3>Baekjoon Tier_</div>
 
