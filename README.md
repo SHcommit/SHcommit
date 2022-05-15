@@ -12,8 +12,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=happysh_s2)](https://solved.ac/happysh_s2)
 
- 
-Visit my <a herf="https://github.com/SHcommit/Algorithm-study"> Algorithm-study </a> Repository
+Visit my [Algorithm-study](https://github.com/SHcommit/Algorithm-study) Repository
 
 
 <div align=center><h3>Tech_</div>
