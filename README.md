@@ -20,7 +20,7 @@ Visit my [Algorithm-study](https://github.com/SHcommit/Algorithm-study) Reposito
 * **Strong**
 
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white"/> 
 
 * **Knowledgable**
 
