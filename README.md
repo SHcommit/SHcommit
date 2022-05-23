@@ -4,8 +4,12 @@
 <a href="https://dev-with-precious-dreams.tistory.com/"  target="_blank"><img src="https://img.shields.io/badge/BLOG-lightgray?style=flat-square&logo=velog&logoColor=white"/></a> <img src="https://img.shields.io/badge/happysh_s2@naver.com-yellow?style=flat-square&logo=Gmail&logoColor=email"/></a>
 
 * I'm studying swift for developing **IOS** app, and Computer Science, Algorithm
+* 
 * I am a 3rd year computer science student
+* 
 * I like to plan and develop
+*
+* <a href="" alt="profile">This is my profile</a> made in html
 
 <div align=center><h3>Baekjoon Tier_</div>
 
