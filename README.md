@@ -5,7 +5,7 @@
 
 * I'm studying swift for developing **IOS** app, and Computer Science, Algorithm
 * I am a 3rd year computer science student
-* I like to plan and develop
+* I like to plan and develop :)
 * <a href="https://shcommit.github.io/profile/profile.html" alt="profile">This is my profile</a> made in html
 
 <div align=center><h3>Baekjoon Tier_</div>
