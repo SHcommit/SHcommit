@@ -28,8 +28,8 @@ Visit my [Algorithm-study](https://github.com/SHcommit/Algorithm-study) Reposito
 
 <div align=center><h3>📚Studying_</div>
 
-* Combine/Core hierarchy/ UIKit
-* Alamofire/Database/SQL/Firebase/FMDB/Algorithm/
+* Combine/ UIKit
+* /Algorithm/Concurrency/TDD/LLDB
 * Object-C collection etc...
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=gradient)
