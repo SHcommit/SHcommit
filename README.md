@@ -29,7 +29,7 @@ Visit my [Algorithm-study](https://github.com/SHcommit/Algorithm-study) Reposito
 <div align=center><h3>📚Studying_</div>
 
 * **Combine**/ UIKit
-* /Algorithm/Concurrency/TDD/LLDB
+* Algorithm/Concurrency/TDD/LLDB
 * SwiftUI
 * Object-C collection etc...
 
