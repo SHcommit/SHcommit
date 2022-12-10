@@ -35,7 +35,7 @@ Visit my [Algorithm-study](https://github.com/SHcommit/Algorithm-study) Reposito
 * SwiftUI
 * Object-C etc...
  
- 공부 할수록 배워야 할게 많아지는 건 기분 탓인가..?
+ 공부 할수록 배워야 할게 많아지는 건 기분 탓!!!!
  
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=gradient)
