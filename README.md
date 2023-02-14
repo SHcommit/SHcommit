@@ -9,7 +9,7 @@
 <a href="https://dev-with-precious-dreams.tistory.com/"  target="_blank"><img src="https://img.shields.io/badge/BLOG-lightgray?style=flat-square&logo=velog&logoColor=white" height="25"/></a> <img src="https://img.shields.io/badge/happysh_s2@naver.com-yellow?style=flat-square&logo=Gmail&logoColor=email" height="25"/></a>
 
 * I'm studying swift for developing **IOS** app, and Computer Science, Algorithm
-* I am a 3rd year computer science student
+* I am a 4rd year computer science student
 * I like to plan and develop :)
 * <a href="https://shcommit.github.io/profile/profile.html" alt="profile">This is my profile</a> made in html
 
