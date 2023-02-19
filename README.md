@@ -23,7 +23,7 @@
 * SwiftUI
 * Object-C etc...
 
-<div align=center><h3>📚쬐금 공부</div>
+<div align=center><h3>📚쪼금 공부_</div>
  
  * Combine, Concurrency GCD, Modern concurrency, Coordinator pattern
 
