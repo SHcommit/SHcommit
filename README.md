@@ -15,13 +15,16 @@
 
 <div align=center><h3>📚Todo List_</div>
 
-* **Combine**/ UIKit
+*  UIKit
 * Swinject or needle
 * CoreAnimation
-* Algorithm/Concurrency/TDD/LLDB
+* Algorithm/TDD/LLDB/App architecture
+* ApplicationProgrammingInterface, ComputerScience 복습
 * SwiftUI
 * Object-C etc...
 
+ // clear
+ * Combine, Concurrency GCD, Modern concurrency, Coordinator pattern
 
 <div align=center><h3>Baekjoon Tier_</div>
 
