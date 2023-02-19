@@ -17,7 +17,7 @@
 
 *  UIKit
 * Swinject or needle
-* CoreAnimation
+* CoreAnimation/FireBase/MemoryManagement
 * Algorithm/TDD/LLDB/App architecture
 * ApplicationProgrammingInterface, ComputerScience 복습
 * SwiftUI
