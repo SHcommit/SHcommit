@@ -42,10 +42,11 @@ extension AboutMe {
     return [
       "Asynchronous. GCD, async/await, actor, Thread, Combine etc...",
       "Caching. disk cache, filemanager, NSCache etc...",
-      "NEtworking. RESTFul, TCP/UDP, Alamofire, URLSession, socket etc...",
-      "animation", "UIKit", "Combine", "Unit Test", "AutoLayout",
+      "NEtworking. RESTFul, TCP/UDP, Alamofire, URLSession, Socket etc...",
+      "Animation", "UIKit", "Combine", "Unit Test", "AutoLayout",
       "MVC, MVVM, VIPER, Coordinator, MVVM+Clean Architecture etc...",
       "Computer science. OS, Algorithm, Data structure, Network etc...",
+      "Kodeco code convention"
     ]
   }
 }
