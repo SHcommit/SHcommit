@@ -42,11 +42,12 @@ extension AboutMe {
     return [
       "Asynchronous. GCD, async/await, actor, Thread, Combine etc...",
       "Caching. disk cache, filemanager, NSCache etc...",
-      "NEtworking. RESTFul, TCP/UDP, Alamofire, URLSession, Socket etc...",
+      "Networking. RESTFul, TCP/UDP Socket, Alamofire, URLSession etc...",
       "Animation", "UIKit", "Combine", "Unit Test", "AutoLayout",
+      "Core data", "Firebase", 
       "MVC, MVVM, VIPER, Coordinator, MVVM+Clean Architecture etc...",
       "Computer science. OS, Algorithm, Data structure, Network etc...",
-      "Kodeco code convention"
+      "Kodeco code convention", "swift style guilde"
     ]
   }
 }
