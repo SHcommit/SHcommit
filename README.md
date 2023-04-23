@@ -81,8 +81,8 @@ extension AboutMe {
 
 
 <div align=left><h3>My info_</div>
- 
- <a href="https://dev-with-precious-dreams.tistory.com/"  target="_blank"><img src="https://img.shields.io/badge/BLOG-lightgray?style=flat-square&logo=velog&logoColor=white" height="20"/></a> <img src="https://img.shields.io/badge/happysh_s2@naver.com-yellow?style=flat-square&logo=Gmail&logoColor=email" height="20"/></a>
+ <a href="https://dev-with-precious-dreams.tistory.com/" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FFFFFF?&style=for-the-badge&logo=Tistory&logoColor=black" height="25"/></a>
+<img src="https://img.shields.io/badge/happysh_s2@naver.com-yellow?style=flat-square&logo=Gmail&logoColor=email" height="25"/></a>
  
  ![shcommit](https://github-readme-stats.vercel.app/api?username=shcommit&show_icons=true&theme=gruvbox)
  
