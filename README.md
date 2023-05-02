@@ -1,4 +1,4 @@
-<div align=left><h1>Hi, I'm Yang seunghyuyn <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b.png" width="40" height="40"/>
+<div align=left><h1>Hi, I'm Yang seunghyun <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b.png" width="40" height="40"/>
  </h1></div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=450&size=35&duration=4500&pause=1000&color=FAAB78&center=true&width=600&lines=I+like+IOS+app+development+%3A);I'm+improving+every+day+!!!" alt="Typing SVG" /></a>
