@@ -27,9 +27,9 @@ struct AboutMe {
 extension AboutMe {
   func toDo📚() -> Keywords {
     return [
-      "UIKit", "Swinject", "CoreAnimation", "FireBase", "CoreLocation",
+      "UIKit", "Swinject", "CoreAnimation", "FireBase", "CoreLocation"
       "MemoryManagement", "Algorithm", "ComputerScience","TDD",
-      "LLDB", "GoF design pattern", "mapKit", "POP",
+      "LLDB", "GoF design pattern", "mapKit", "POP", "OOP", "Rx", "Git", "SOLID"
       "ApplicationProgrammingInterface", "SwiftUI", "Objective-C"
     ]
   }
@@ -45,11 +45,22 @@ extension AboutMe {
       "Asynchronous. GCD, async/await, actor, Thread, Combine etc...",
       "Caching. disk cache, filemanager, NSCache etc...",
       "Networking. RESTFul, TCP/UDP Socket, Alamofire, URLSession etc...",
-      "Animation", "UIKit", "Combine", "Unit Test", "AutoLayout",
+      "Animation", "UIKit", "Combine", "Unit Test", "AutoLayout", DIP+DI, "Protocol any, some, coposition..?"
       "Core data", "Firebase", 
-      "MVC, MVVM, VIPER, Coordinator, MVVM+Clean Architecture etc...",
+      "MVC, MVVM, VIPER, <a href="https://github.com/SHcommit/SHCoordinator/graphs/traffic">Coordinator</a>, MVVM+Clean Architecture etc...",
       "Computer science. OS, Algorithm, Data structure, Network etc...",
       "Kodeco code convention", "swift style guilde"
+    ]
+  }
+}
+</pre>
+
+<pre>
+extension AboutMe {
+  func booksToStudy📖() -> Keywords {
+    return [
+      "오브젝트-위키북스",
+      "켄트 벡의 구현 패턴-에이콘출판사" 
     ]
   }
 }
