@@ -16,7 +16,7 @@ struct AboutMe {
     return ["Clean code", "Share my thoughts", "Technology that can make anything I imagine"]
   }
   func like🫠() -> Keywords {
-    return ["Plan","Develop","iPhone"]
+    return ["Plan", "Develop", "iPhone"]
   }
 }
 </pre>
@@ -27,10 +27,10 @@ struct AboutMe {
 extension AboutMe {
   func toDo📚() -> Keywords {
     return [
-      "UIKit", "Swinject", "CoreAnimation", "FireBase", "CoreLocation"
-      "MemoryManagement", "Algorithm", "ComputerScience","TDD",
-      "LLDB", "GoF design pattern", "mapKit", "POP", "OOP", "Rx", "Git", "SOLID"
-      "ApplicationProgrammingInterface", "SwiftUI", "Objective-C"
+      "UIKit", "Swinject", "CoreAnimation", "FireBase", "CoreLocation",
+      "MemoryManagement", "Algorithm", "ComputerScience",
+      "LLDB", "GoF design pattern", "mapKit", "Git",
+      "SwiftUI",
     ]
   }
 }
@@ -44,11 +44,12 @@ extension AboutMe {
     return [
       "Asynchronous. GCD, async/await, actor, Thread, Combine etc...",
       "Caching. disk cache, filemanager, NSCache etc...",
-      "Networking. RESTFul, TCP/UDP Socket, Alamofire, URLSession etc...",
+      "Networking. RESTFul, TCP/UDP Socket, Alamofire, URLSession", "URLSession protocols etc...",
       "Animation", "UIKit", "Combine", "Unit Test", "AutoLayout", DIP+DI, "Protocol any, some, coposition..?"
       "Core data", "Firebase", 
       "MVC, MVVM, VIPER, <a href="https://github.com/SHcommit/SHCoordinator/graphs/traffic">Coordinator</a>, MVVM+Clean Architecture etc...",
       "Computer science. OS, Algorithm, Data structure, Network etc...",
+      "OOP", "POP", "SOLID etc...."
       "Kodeco code convention", "swift style guilde"
     ]
   }
