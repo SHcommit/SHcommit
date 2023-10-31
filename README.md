@@ -27,9 +27,9 @@ struct AboutMe {
 extension AboutMe {
   func toDo📚() -> Keywords {
     return [
-      "UIKit", "Swinject", "CoreAnimation", "FireBase", "CoreLocation",
-      "MemoryManagement", "Algorithm", "ComputerScience",
-      "LLDB", "GoF design pattern", "mapKit", "Git",
+      "UIKit", "Swinject", "CoreAnimation", "FireBase",
+      "Algorithm", "ComputerScience",
+      "LLDB", "GoF design pattern",
       "SwiftUI",
     ]
   }
@@ -61,7 +61,8 @@ extension AboutMe {
   func booksToStudy📖() -> Keywords {
     return [
       "오브젝트-위키북스",
-      "켄트 벡의 구현 패턴-에이콘출판사" 
+      "켄트 벡의 구현 패턴-에이콘출판사",
+      "CleanArchitecture"
     ]
   }
 }
