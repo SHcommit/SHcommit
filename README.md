@@ -47,7 +47,7 @@ extension AboutMe {
       "Networking. RESTFul, TCP/UDP Socket, Alamofire, URLSession", "URLSession protocols etc...",
       "Animation", "CoreAnimation", "UIKit", "Combine", "Unit Test", "AutoLayout", DIP+DI, "Protocol any, some, coposition..?",  "Swinject",
       "Core data", "Firebase", "ImageIO",
-      "MVC, MVVM, VIPER, <a href="https://github.com/SHcommit/SHCoordinator/graphs/traffic">Coordinator</a>, MVVM+Clean Architecture etc...",
+      "MVC, MVVM, <a href="https://github.com/SHcommit/SHCoordinator/graphs/traffic">Coordinator</a>, MVVM+Clean Architecture etc...",
       "Computer science. OS, Algorithm, Data structure, Network etc...",
       "OOP", "POP", "SOLID etc...."
       "Kodeco code convention", "swift style guilde"
