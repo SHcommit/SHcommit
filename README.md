@@ -27,7 +27,7 @@ struct AboutMe {
 extension AboutMe {
   func toDo📚() -> Keywords {
     return [
-      "UIKit", "Swinject", "FireBase",
+      "UIKit",
       "Algorithm", "ComputerScience",
       "LLDB", "GoF design pattern",
       "SwiftUI",
@@ -43,9 +43,9 @@ extension AboutMe {
   func know🔥() -> Keywords {
     return [
       "Asynchronous. GCD, async/await, actor, Thread, Combine etc...",
-      "Caching. disk cache, filemanager, NSCache etc...",
+      "Caching. disk cache, filemanager, NSCache", "FireBase etc...",
       "Networking. RESTFul, TCP/UDP Socket, Alamofire, URLSession", "URLSession protocols etc...",
-      "Animation", "CoreAnimation", "UIKit", "Combine", "Unit Test", "AutoLayout", DIP+DI, "Protocol any, some, coposition..?"
+      "Animation", "CoreAnimation", "UIKit", "Combine", "Unit Test", "AutoLayout", DIP+DI, "Protocol any, some, coposition..?",  "Swinject",
       "Core data", "Firebase", "ImageIO",
       "MVC, MVVM, VIPER, <a href="https://github.com/SHcommit/SHCoordinator/graphs/traffic">Coordinator</a>, MVVM+Clean Architecture etc...",
       "Computer science. OS, Algorithm, Data structure, Network etc...",
