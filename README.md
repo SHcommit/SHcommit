@@ -10,28 +10,13 @@
 <pre>
 struct AboutMe {
   typealias Keywords = [String]
-  let me😆 = ["senior in university", "ENTP", "study swift for developing iOS app"]
+  let me😆 = ["ENTP", "study swift for developing iOS app"]
   
   func myMind👨🏻‍💻() -> Keywords {
     return ["Clean code", "Share my thoughts", "Technology that can make anything I imagine"]
   }
   func like🫠() -> Keywords {
     return ["Plan", "Develop", "iPhone"]
-  }
-}
-</pre>
-
-<div align=left><h3>Todo List_</div>
-
-<pre>
-extension AboutMe {
-  func toDo📚() -> Keywords {
-    return [
-      "UIKit",
-      "Algorithm", "ComputerScience",
-      "LLDB", "GoF design pattern",
-      "SwiftUI",
-    ]
   }
 }
 </pre>
@@ -45,7 +30,7 @@ extension AboutMe {
       "Asynchronous. GCD, async/await, actor, Thread, Combine etc...",
       "Caching. disk cache, filemanager, NSCache", "FireBase etc...",
       "Networking. RESTFul, TCP/UDP Socket, Alamofire, URLSession", "URLSession protocols etc...",
-      "Animation", "CoreAnimation", "UIKit", "Combine", "Unit Test", "AutoLayout", DIP+DI, "Protocol any, some, coposition..?",  "Swinject",
+      "Animation", "CoreAnimation", "UIKit", "Combine", "Unit Test", "AutoLayout", DIP+DI, "Swinject",
       "Core data", "ImageIO",
       "MVC, MVVM, <a href="https://github.com/SHcommit/SHCoordinator/graphs/traffic">Coordinator</a>, MVVM+Clean Architecture, Modularization etc...",
       "Computer science. OS, Algorithm, Data structure, Network etc...",
@@ -56,52 +41,15 @@ extension AboutMe {
 }
 </pre>
 
-<pre>
-extension AboutMe {
-  func booksToStudy📖() -> Keywords {
-    return [
-      "오브젝트-위키북스",
-      "켄트 벡의 구현 패턴-에이콘출판사",
-      "CleanArchitecture"
-    ]
-  }
-}
-</pre>
-
-
-<div align=left><h3>Baekjoon Tier_</div>
+<div align=left><h3>Baekjoon_</div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happysh_s2)](https://solved.ac/happysh_s2/)
  
 
 
-<div align=left><h3>Tech_</div>
- 
-  <h3> 🚀 &nbsp;Strong Tools I Have Used and Learned</h3>
-<p align="left">
- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="30"/>
- <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="SWIFT" height="30"/>
- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GHTHUB" height="30"/>
-
-</p>
-
- 	
- 
- <h3> 🚀 &nbsp;Knowledgable Tools I Have Used and Learned</h3>
-<p align="left">
- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="30"/>
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="30"/>
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="30"/>
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA" height="30"/>
-</p>
-
-
 <div align=left><h3>My info_</div>
- <a href="https://dev-with-precious-dreams.tistory.com/" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FFFFFF?&style=for-the-badge&logo=Tistory&logoColor=black" height="25"/></a>
-<img src="https://img.shields.io/badge/happysh_s2@naver.com-yellow?style=flat-square&logo=Gmail&logoColor=email" height="25"/></a>
- 
- ![shcommit](https://github-readme-stats.vercel.app/api?username=shcommit&show_icons=true&theme=gruvbox)
- 
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshcommit%2Fhit-counter&count_bg=%23FFDCA9&title_bg=%23E8F3D6&icon=verizon.svg&icon_color=%23DB7A7A&title=hits&edge_flat=false"/></a>
 
+ - tistory [<a href="https://dev-with-precious-dreams.tistory.com/">link</a>]
+ - email: happysh_s2@naver.com
+ 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=gradient)
