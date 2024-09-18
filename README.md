@@ -1,4 +1,4 @@
-<div align=left><h1>Hi, I'm Yang seunghyun <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b.png" width="40" height="40"/>
+<div align=left><h1>Hi <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b.png" width="40" height="40"/>
  </h1></div>
 
 ![KakaoTalk_Photo_2023-07-08-05-20-34](https://github.com/SHcommit/SHcommit/assets/96910404/52e03dfa-748f-4ef2-85f6-5ca32e1fcec4)
@@ -50,6 +50,5 @@ extension AboutMe {
 <div align=left><h3>My info_</div>
 
  - tistory [<a href="https://dev-with-precious-dreams.tistory.com/">link</a>]
- - email: happysh_s2@naver.com
  
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=gradient)
