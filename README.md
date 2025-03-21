@@ -27,10 +27,12 @@ struct AboutMe {
 extension AboutMe {
   func know🔥() -> Keywords {
     return [
-      "Asynchronous. GCD, async/await, actor, Thread, Combine etc...",
-      "Caching. disk cache, filemanager, NSCache", "FireBase etc...",
+      "ReactorKit", "RxSwift", "RxFlow", "Combine",
+      "Modularization using SPM, XCWorkspace + Framework and Tuist!" ,
+      "Asynchronous. GCD, async/await, actor, Thread etc...",
+      "Caching. disk cache, filemanager, NSCache", "Firebase etc...",
       "Networking. RESTFul, TCP/UDP Socket, Alamofire, URLSession", "URLSession protocols etc...",
-      "Animation", "CoreAnimation", "UIKit", "Combine", "Unit Test", "AutoLayout", DIP+DI, "Swinject",
+      "Animation", "CoreAnimation", "UIKit", "Unit Test", "AutoLayout", DIP+DI, "Swinject",
       "Core data", "ImageIO",
       "MVC, MVVM, <a href="https://github.com/SHcommit/SHCoordinator/graphs/traffic">Coordinator</a>, MVVM+Clean Architecture, Modularization etc...",
       "Computer science. OS, Algorithm, Data structure, Network etc...",
