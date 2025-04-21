@@ -1,9 +1,11 @@
-<div align=left><h1>Hi <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b.png" width="40" height="40"/>
- </h1></div>
+<div align="left"><h1>Hi <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b.png" width="40" height="40"/>
+</h1>
+</div>
 
 ![KakaoTalk_Photo_2023-07-08-05-20-34](https://github.com/SHcommit/SHcommit/assets/96910404/52e03dfa-748f-4ef2-85f6-5ca32e1fcec4)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=450&size=35&duration=4500&pause=1000&color=FAAB78&center=true&width=600&lines=I+like+IOS+app+development+%3A);I'm+improving+every+day+!!!" alt="Typing SVG" /></a>
+
 
 <div align=left><h3>Me_</div>
 
@@ -42,6 +44,25 @@ extension AboutMe {
   }
 }
 </pre>
+
+---
+
+<table style="border: none;">
+  <tr>
+    <td style="vertical-align: middle; padding-right: 12px;">
+      <img src="https://github.com/user-attachments/assets/c26338ac-89c7-46fa-a1f5-daaaf0ef972d" width="65" height="65"/>
+    </td>
+    <td style="vertical-align: middle;">
+      <h2 style="margin: 0;">성경대로</h2>
+      <p style="margin: 4px 0;">마음의 중심을 붙드는 성경 앱 - 성경대로 (25.04.18~)</p>
+      <a href="https://apps.apple.com/kr/app/%EC%84%B1%EA%B2%BD%EB%8C%80%EB%A1%9C/id6744650815">
+        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="앱스토어에서 다운로드" height="32"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
 
 <div align=left><h3>Baekjoon_</div>
 
